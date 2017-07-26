@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "TModel1",
+    "owner": "johnofsaints",
+    "description": "For testing purpose"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "johnofsaints"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "johnofsaints"
+  }
+}
